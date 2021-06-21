@@ -35,7 +35,7 @@
             color:salmon;
         }
     </style>
-    <body style="background-color:salmon;">
+    <body" style="background-color:salmon;">
         <!--navbar-->
         <section class="navbar-shadow container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:chartreuse;">
@@ -71,6 +71,7 @@
                 <div class="h-100 p-5">
             <h2><marquee><a class="warnabiru">SELAMAT DATANG</a> DI WEBSITE <a class="warnalain">KOTAK CRAFT!</a></marquee></h2>
             <p><h5 class="basar">KOTAK CRAFT, MENYEDIAKAN RANK PREMIUM MINECRAFT<br>UNTUK MEMPERMUDAH ANDA BERMAIN DAN BERPATROLI DI SERVER KOTAK CRAFT!</h5></p>
+            <button onclick="myFunction()" class="btn btn-primary">JOIN SERVER</button>
             </div>
         </div>
         </div>
@@ -151,7 +152,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
                 <script>
         function myFunction() {
-        alert("Hello! I am an alert box!");
+        alert("JOIN SERVER IP: kotak-craft.mcalias.com ");
         }
         </script>
         <!-- Option 2: Separate Popper and Bootstrap JS -->
