@@ -50,10 +50,10 @@
                         <a class="nav-link active" aria-current="page" href="#"><b>BERANDA</b></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><b>RANK VIP</b></a>
+                        <a class="nav-link" href="https://www.instagram.com/golda_s4ns/"><b>INSTAGRAM</b></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><b>CHAT OWNER</b></a>
+                        <a class="nav-link" href="#"><b>FACEBOOK</b></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
