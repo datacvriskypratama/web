@@ -70,7 +70,7 @@
         <div class="container" style="background-color:yellow;">
                 <div class="h-100 p-5">
             <h2><marquee><a class="warnabiru">SELAMAT DATANG</a> DI WEBSITE <a class="warnalain">KOTAK CRAFT!</a></marquee></h2>
-            <p><h5 class="basar">KOTAK CRAFT SERVER MINECRAFT<br>MENYEDIAKAN RANK GAME MINECRAFT UNTUK SERVER KOTAK-CRAFT!</h5><br>ANDA JUGA BISA MENDAPATKAN RANK MENGGUNAKAN XP! DAN MINIMAL XP 200.000 UNTUK MENDAPATKAN RANK!</p>
+            <p><h5 class="basar">KOTAK CRAFT SERVER MINECRAFT<br>MENYEDIAKAN RANK GAME MINECRAFT UNTUK SERVER KOTAK-CRAFT!</h5><br><h5>ANDA JUGA BISA MENDAPATKAN RANK MENGGUNAKAN XP! DAN MINIMAL XP 200.000 UNTUK MENDAPATKAN RANK!</h5></p>
             <button onclick="myFunction()" class="btn btn-primary">JOIN SERVER</button>
             </div>
         </div>
@@ -84,7 +84,7 @@
             <h2 class="text-center">RANK GAME</h2>
                 ​​<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
         <div class="col">
-            <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card mb-4 shadow-sm">
             <div class="card-header py-3">
                 <h4 class="my-0 fw-normal warnahijau">VIP</h4>
             </div>
@@ -101,7 +101,7 @@
             </div>
         </div>
         <div class="col">
-            <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card mb-4 shadow-sm">
             <div class="card-header py-3">
                 <h4 class="my-0 fw-normal warnasalmon">PREMIUM VIP</h4>
             </div>
@@ -118,7 +118,7 @@
             </div>
         </div>
         <div class="col">
-            <div class="card mb-4 rounded-3 shadow-sm">
+            <div class="card mb-4 shadow-sm">
             <div class="card-header py-3 text-white ">
                 <h4 class="my-0 fw-normal warnagold">GOLD VIP</h4>
             </div>
