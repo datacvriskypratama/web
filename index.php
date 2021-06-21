@@ -35,7 +35,7 @@
             color:salmon;
         }
     </style>
-    <body" style="background-color:salmon;">
+    <body style="background-color:salmon;">
         <!--navbar-->
         <section class="navbar-shadow container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:chartreuse;">
@@ -70,7 +70,7 @@
         <div class="container" style="background-color:yellow;">
                 <div class="h-100 p-5">
             <h2><marquee><a class="warnabiru">SELAMAT DATANG</a> DI WEBSITE <a class="warnalain">KOTAK CRAFT!</a></marquee></h2>
-            <p><h5 class="basar">KOTAK CRAFT, MENYEDIAKAN RANK PREMIUM MINECRAFT<br>UNTUK MEMPERMUDAH ANDA BERMAIN DAN BERPATROLI DI SERVER KOTAK CRAFT!</h5></p>
+            <p><h5 class="basar">KOTAK CRAFT SERVER MINECRAFT<br>MENYEDIAKAN RANK GAME MINECRAFT UNTUK SERVER KOTAK-CRAFT!</h5><br>ANDA JUGA BISA MENDAPATKAN RANK MENGGUNAKAN XP! DAN MINIMAL XP 200.000 UNTUK MENDAPATKAN RANK!</p>
             <button onclick="myFunction()" class="btn btn-primary">JOIN SERVER</button>
             </div>
         </div>
