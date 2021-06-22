@@ -52,7 +52,7 @@
         <section class="navbar-shadow container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:chartreuse;border-radius:15px;">
                 <div class="container">
-                <a class="navbar-brand" href="#"><img src="img/logo.png" width="150"></a>
+                <a class="navbar-brand" href="#"><img src="img/9a1133d4af3b637e1c6c8ff251785f27-removebg-preview.png" width="150"><b>KOTAK-CRAFT</b></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
