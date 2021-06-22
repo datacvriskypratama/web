@@ -1,5 +1,7 @@
+    <!-- DILARANG KERAS MENYURI SCRIPT PETOT KEDETECT IP LU AUTO HACK PC LU ANGUS! -->
     <!DOCTYPE html>
-    <lang="en">
+    <html>
+        <lang="en">
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -78,8 +80,9 @@
         <!--End Jumbotron-->
 
         <!--PATNER-->
-        <div class="container warnawarna">
+        <div class="container text-center" style="background-color:#DAF7A6;">
         <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
+        <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
         </div>
         <!--END PATNER-->
 
