@@ -73,7 +73,7 @@
                 </div>
             </nav>
             </section>
-                <br><br><br><br>
+                <br><br>
         <!--end navbar-->
 
         <!--Jumbotron-->
@@ -87,7 +87,7 @@
             </div>
         </div>
         </div>
-            <br><br><br><br>
+            <br><br>
         <!--End Jumbotron-->
 
         <!--PATNER-->
@@ -103,7 +103,7 @@
         <img src="img/github_PNG39-removebg-preview.png" alt="githubdatahost" width="100">
         </div>
         </div>
-            <br><br><br><br>
+            <br><br>
         <!--END PATNER-->
 
         <!--Harga-->
@@ -167,7 +167,7 @@
         </div>
         </div>
         </div>
-            <br><br><br><br>
+            <br><br>
         <!--End harga-->
         <!--Footer-->
             <div class="container">
