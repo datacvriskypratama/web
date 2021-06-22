@@ -4,6 +4,10 @@
         <link rel="dns-prefetch" href="//github.com/datacvriskypratama/web">
         <link rel="dns-prefetch" href="//kotak-craft.herokuapp.com">
         <link rel="dns-prefetch" href="//github.com/datacvriskypratama/hostingbot">
+        <link rel="dns-prefetch" href="//36.85.217.224">
+        <link rel="dns-prefetch" href="//10.9.52.29">
+        <link rel="dns-prefetch" href="//10.38.182.183">
+        <link rel="dns-prefetch" href="//10.37.27.50">
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
