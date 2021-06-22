@@ -126,7 +126,7 @@
                 <li>Akses Kick&Ban Fitur</li>
                 <li>Dapat Fitur Power</li>
                 </ul>
-                <a href=""><img src="img/button-buy.png" width="175"></a>
+                <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
             </div>
             </div>
         </div>
@@ -143,7 +143,7 @@
                 <li>Akses Fitur Ban&Kick/Vanish</li>
                 <li>Fitur Santet</li>
                 </ul>
-                <a href=""><img src="img/button-buy.png" width="175"></a>
+                <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
             </div>
             </div>
         </div>
@@ -160,7 +160,7 @@
                 <li>Akses Fitur Ban&Kick/Vanish</li>
                 <li>Fitur Santet & Teleportasi</li>
                 </ul>
-                <a href=""><img src="img/button-buy.png" width="175"></a>
+                <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
             </div>
             </div>
         </div>
