@@ -44,7 +44,7 @@
             border-radius:15px;
         }
         .sabol{
-            width:95px;
+            width:93px;
         }
     </style>
     <body style="background-color:salmon;">
