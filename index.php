@@ -53,7 +53,7 @@
                         <a class="nav-link" href="https://www.instagram.com/golda_s4ns/"><b>INSTAGRAM</b></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><b>FACEBOOK</b></a>
+                        <a class="nav-link" href="https://www.facebook.com/profile.php?id=100068514830286"><b>FACEBOOK</b></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
@@ -76,6 +76,10 @@
         </div>
         </div>
         <!--End Jumbotron-->
+
+        <!--PATNER-->
+        <img src="https://www.pngjoy.com/pngm/207/4054796_server-icon-domain-controller-logo-png-transparent-png.png" alt="server" width="250">
+        <!--END PATNER-->
 
         <!--Harga-->
         <div class="container">
