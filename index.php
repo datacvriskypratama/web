@@ -109,7 +109,6 @@
         <!--Harga-->
         <div class="container">
         <div class="container" style="background-color:springgreen;border-radius:15px;">
-            <br><br><br><br>
             <h2 class="text-center">RANK GAME</h2>
                 ​​<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
         <div class="col">
@@ -162,7 +161,6 @@
                 <a href=""><img src="img/button-buy.png" width="175"></a>
             </div>
             </div>
-            <br><br><br><br>
         </div>
         </div>
         </div>
