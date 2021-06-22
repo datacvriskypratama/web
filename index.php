@@ -78,7 +78,9 @@
         <!--End Jumbotron-->
 
         <!--PATNER-->
-        <img src="https://www.pngjoy.com/pngm/207/4054796_server-icon-domain-controller-logo-png-transparent-png.png" alt="server" width="250">
+        <div class="container warnawarna">
+        <img src="img/server-logo-removebg-preview" alt="server" width="100">
+        </div>
         <!--END PATNER-->
 
         <!--Harga-->
