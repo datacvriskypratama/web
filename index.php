@@ -106,6 +106,7 @@
         <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" alt="herokuapphosting" width="100">
         <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" alt="cloudserver" width="100">
         <img src="img/github_PNG39-removebg-preview.png" alt="githubdatahost" width="100">
+        <img src="img/discord-mascot-removebg-preview.png" alt="ondiscord">
         </div>
         </div>
             <br>
