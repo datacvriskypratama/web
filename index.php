@@ -165,8 +165,8 @@
         </div>
         </div>
         </div>
-            <br>
         <!--End harga-->
+        
         <!--Footer-->
             <div class="container">
         <footer style="background-color:violet;border-radius:15px;">
