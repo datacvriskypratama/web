@@ -89,7 +89,6 @@
         <!--PATNER-->
         <div class="container">
         <div class="warnabackend text-center">
-        <br><br><br><br>
         <h2 class="text-center">SUPPORT</h2>
         <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
         <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
