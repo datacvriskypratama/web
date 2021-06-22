@@ -36,6 +36,9 @@
         .warnasalmon{
             color:salmon;
         }
+        .warnabackend{
+            background-color: #DAF7A6;
+        }
     </style>
     <body style="background-color:salmon;">
         <!--navbar-->
@@ -80,10 +83,9 @@
         <!--End Jumbotron-->
 
         <!--PATNER-->
-        <div class="container" style="background-color:#DAF7A6;">
-        <img class="text-center" src="img/server-logo-removebg-preview.png" alt="server" width="100">
-        <img class="text-center" src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
-        </div>
+        <div class="container warnabackend">
+        <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
+        <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
         </div>
         <!--END PATNER-->
 
