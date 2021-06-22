@@ -40,7 +40,7 @@
             background-color: #DAF7A6;
         }
         .sabol{
-            width:250px;
+            width:95px;
         }
     </style>
     <body style="background-color:salmon;">
