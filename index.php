@@ -89,6 +89,9 @@
         <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
         <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" alt="htmleditor" width="100">
         <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" alt="javascripteditor" width="100">
+        <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" alt="herokuapphosting" width="100">
+        <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" alt="cloudserver" width="100">
+        <img src="img/github_PNG39-removebg-preview.png" alt="githubdatahost" width="100">
         </div>
         </div>
         <!--END PATNER-->
