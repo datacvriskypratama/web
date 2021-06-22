@@ -11,6 +11,7 @@
         <!--End Font-->
         <!-- Bootstrap CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+        <link rel="icon" href="favicon. png" sizes="16x16" type="https://kotak-craft.herokuapp.com/img/minecraft_logo_icon_168974-removebg-preview.png">
         <title>SERVER WEB KOTAK-CRAFT</title>
     </head>
     <style>
@@ -46,7 +47,7 @@
     <body style="background-color:salmon;">
         <!--navbar-->
         <section class="navbar-shadow container">
-            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:chartreuse;">
+            <nav class="navbar navbar-expand-lg navbar-light" style="background-color:chartreuse;border-radius:10px;">
                 <div class="container">
                 <a class="navbar-brand" href="#"><img src="img/logo.png" width="150"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
