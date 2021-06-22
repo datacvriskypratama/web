@@ -1,7 +1,9 @@
     <!-- DILARANG KERAS MENYURI SCRIPT PETOT KEDETECT IP LU AUTO HACK PC LU ANGUS! -->
     <!DOCTYPE html>
-    <html>
-        <lang="en">
+    <html lang="en-US">
+        <link rel="dns-prefetch" href="//github.com/datacvriskypratama/web">
+        <link rel="dns-prefetch" href="//kotak-craft.herokuapp.com">
+        <link rel="dns-prefetch" href="//github.com/datacvriskypratama/hostingbot">
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
