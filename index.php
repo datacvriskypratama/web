@@ -79,7 +79,7 @@
 
         <!--PATNER-->
         <div class="container warnawarna">
-        <img src="img/server-logo-removebg-preview" alt="server" width="100">
+        <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
         </div>
         <!--END PATNER-->
 
