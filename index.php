@@ -14,7 +14,7 @@
         <!-- Bootstrap CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
         <link rel="icon" href="https://i.pinimg.com/originals/9a/11/33/9a1133d4af3b637e1c6c8ff251785f27.jpg" sizes="16x16" type="image/png">
-        <title>SERVER WEB KOTAK-CRAFT</title>
+        <title>KOTAK-CRAT SERVER MINECRAFT</title>
     </head>
     <style>
         *{
