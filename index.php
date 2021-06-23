@@ -66,6 +66,9 @@
                         <a class="nav-link active" aria-current="page" href="#"><b>BERANDA</b></a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="https://discord.gg/H9Ez4UF2"><b>DISCORD</b></a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="https://www.instagram.com/golda_s4ns/"><b>INSTAGRAM</b></a>
                     </li>
                     <li class="nav-item">
