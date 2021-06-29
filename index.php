@@ -182,144 +182,100 @@
         <div class="container">
             <div class="warnabackend text-center">
                 <h2 class="text-center">SUPPORT</h2>
-                <hr>
                 <div class="row">
                     <div class="col-lg-3">
-                        <center>
-                            <div id="carouselExampleControls" class="carousel slide text-center" data-bs-ride="carousel">
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <img src="img/server-logo-removebg-preview.png" class="d-block w-100" width="150px">
+                        <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
+                        <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
+                        <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" alt="htmleditor" width="100">
+                        <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" alt="javascripteditor" width="100">
+                        <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" alt="herokuapphosting" width="100">
+                        <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" alt="cloudserver" width="100">
+                        <img src="img/github_PNG39-removebg-preview.png" alt="githubdatahost" width="100">
+                        <img src="img/discord-mascot-removebg-preview.png" alt="ondiscord" width="100">
+                    </div>
+                </div>
+                <br>
+                <!--END PATNER-->
+
+                <!--Harga-->
+                <div class="container">
+                    <div class="container" style="background-color:springgreen;border-radius:15px;">
+                        <h2 class="text-center">RANK GAME</h2>
+                        ​​<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+                            <div class="col">
+                                <div class="card rounded-3 mb-4 shadow-sm">
+                                    <div class="card-header py-3">
+                                        <h4 class="my-0 fw-normal warnahijau">VIP</h4>
                                     </div>
-                                    <div class="carousel-item">
-                                        <img src="img/minecraft_logo_icon_168974-removebg-preview.png" class="d-block w-100" width="150px">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" class="d-block w-100" width="150px">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" class="d-block w-100" width="150px">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" class="d-block w-100" width="150px">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" class="d-block w-100" width="150px">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="img/github_PNG39-removebg-preview.png" class="d-block w-100" width="150p150px">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="img/discord-mascot-removebg-preview.png" class="d-block w-100" width="150px">
+                                    <div class="card-body">
+                                        <h1 class="card-title pricing-card-title">Rp,25.000<small class="text-muted fw-light">/1Bulan</small></h1>
+                                        <ul class="list-unstyled mt-3 mb-4">
+                                            <li>Dapat menu vip</li>
+                                            <li>Tarik Uang</li>
+                                            <li>Akses Kick&Ban Fitur</li>
+                                            <li>Dapat Fitur Power</li>
+                                        </ul>
+                                        <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
                                     </div>
                                 </div>
-                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                    <span class="visually-hidden">Previous</span>
-                                </button>
-                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                    <span class="visually-hidden">Next</span>
-                                </button>
                             </div>
-                        </center>
+                            <div class="col">
+                                <div class="card rounded-3 mb-4 shadow-sm">
+                                    <div class="card-header py-3">
+                                        <h4 class="my-0 fw-normal warnasalmon">PREMIUM VIP</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <h1 class="card-title pricing-card-title">Rp,50.000<small class="text-muted fw-light">/Permanent</small></h1>
+                                        <ul class="list-unstyled mt-3 mb-4">
+                                            <li>Dapat fitur PREMIUM VIP</li>
+                                            <li>Akses Fitur Tarik Uang</li>
+                                            <li>Akses Fitur Ban&Kick/Vanish</li>
+                                            <li>Fitur Santet</li>
+                                        </ul>
+                                        <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card rounded-3 mb-4 shadow-sm">
+                                    <div class="card-header py-3 text-white ">
+                                        <h4 class="my-0 fw-normal warnagold">GOLD VIP</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <h1 class="card-title pricing-card-title">Rp,100.000<small class="text-muted fw-light">/Permanent</small></h1>
+                                        <ul class="list-unstyled mt-3 mb-4">
+                                            <li>Dapat fitur GOLD VIP</li>
+                                            <li>Akses Fitur Tarik Uang</li>
+                                            <li>Akses Fitur Ban&Kick/Vanish</li>
+                                            <li>Fitur Santet & Teleportasi</li>
+                                        </ul>
+                                        <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <!--End harga-->
+
+                <!--Footer-->
+                <div class="container">
+                    <footer style="background-color:violet;border-radius:15px;">
+                        <h2 class="text-center">©COPYRIGHT BY KOTAK CRAFT 2021 & 2022 💕</h2>
+                    </footer>
+                </div>
+                <!--End Footer-->
+                <!-- Optional JavaScript; choose one of the two! -->
+
+                <!-- Option 1: Bootstrap Bundle with Popper -->
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+                <script>
+                    function myFunction() {
+                        alert("JOIN SERVER IP: kotak-craft.mcalias.com ");
+                    }
+                </script>
+                <!-- Option 2: Separate Popper and Bootstrap JS -->
                 <!--
-                <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
-                <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
-                <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" alt="htmleditor" width="100">
-                <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" alt="javascripteditor" width="100">
-                <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" alt="herokuapphosting" width="100">
-                <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" alt="cloudserver" width="100">
-                <img src="img/github_PNG39-removebg-preview.png" alt="githubdatahost" width="100">
-                <img src="img/discord-mascot-removebg-preview.png" alt="ondiscord" width="100">
-                -->
-            </div>
-        </div>
-        <br>
-        <!--END PATNER-->
-
-        <!--Harga-->
-        <div class="container">
-            <div class="container" style="background-color:springgreen;border-radius:15px;">
-                <h2 class="text-center">RANK GAME</h2>
-                <hr>
-                ​​<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-                    <div class="col">
-                        <div class="card rounded-3 mb-4 shadow-sm">
-                            <div class="card-header py-3">
-                                <h4 class="my-0 fw-normal warnahijau">VIP</h4>
-                            </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">Rp,25.000<small class="text-muted fw-light">/1Bulan</small></h1>
-                                <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Dapat menu vip</li>
-                                    <li>Tarik Uang</li>
-                                    <li>Akses Kick&Ban Fitur</li>
-                                    <li>Dapat Fitur Power</li>
-                                </ul>
-                                <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card rounded-3 mb-4 shadow-sm">
-                            <div class="card-header py-3">
-                                <h4 class="my-0 fw-normal warnasalmon">PREMIUM VIP</h4>
-                            </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">Rp,50.000<small class="text-muted fw-light">/Permanent</small></h1>
-                                <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Dapat fitur PREMIUM VIP</li>
-                                    <li>Akses Fitur Tarik Uang</li>
-                                    <li>Akses Fitur Ban&Kick/Vanish</li>
-                                    <li>Fitur Santet</li>
-                                </ul>
-                                <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card rounded-3 mb-4 shadow-sm">
-                            <div class="card-header py-3 text-white ">
-                                <h4 class="my-0 fw-normal warnagold">GOLD VIP</h4>
-                            </div>
-                            <div class="card-body">
-                                <h1 class="card-title pricing-card-title">Rp,100.000<small class="text-muted fw-light">/Permanent</small></h1>
-                                <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Dapat fitur GOLD VIP</li>
-                                    <li>Akses Fitur Tarik Uang</li>
-                                    <li>Akses Fitur Ban&Kick/Vanish</li>
-                                    <li>Fitur Santet & Teleportasi</li>
-                                </ul>
-                                <a href="https://www.facebook.com/profile.php?id=100068514830286"><img src="img/button-buy.png" width="175"></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End harga-->
-
-        <!--Footer-->
-        <div class="container">
-            <footer style="background-color:violet;border-radius:15px;">
-                <h2 class="text-center">©COPYRIGHT BY KOTAK CRAFT 2021 & 2022 💕</h2>
-            </footer>
-        </div>
-        <!--End Footer-->
-        <!-- Optional JavaScript; choose one of the two! -->
-
-        <!-- Option 1: Bootstrap Bundle with Popper -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
-        <script>
-            function myFunction() {
-                alert("JOIN SERVER IP: kotak-craft.mcalias.com ");
-            }
-        </script>
-        <!-- Option 2: Separate Popper and Bootstrap JS -->
-        <!--
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
         -->
