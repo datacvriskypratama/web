@@ -181,7 +181,7 @@
         <!--PATNER-->
         <div class="container">
             <div class="warnabackend text-center pb-3">
-                <h2 class="text-center">RANK GAME</h2>
+                <h2 class="text-center">SUPPORT</h2>
                 <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
                 <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
                 <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" alt="htmleditor" width="100">
@@ -193,7 +193,7 @@
             </div>
         </div>
         <!--END PATNER-->
-
+        <br>
         <!--Harga-->
         <div class="container">
             <div class="container" style="background-color:springgreen;border-radius:15px;">
@@ -205,7 +205,7 @@
                                 <h4 class="my-0 fw-normal warnahijau">VIP</h4>
                             </div>
                             <div class="card-body">
-                                <h1 class="card-title pricing-card-title">Rp,25.000<small class="text-muted fw-light">/1Bulan</small></h1>
+                                <h1 class="card-title pricing-card-title">Rp,50.000<small class="text-muted fw-light">/Permanent</small></h1>
                                 <ul class="list-unstyled mt-3 mb-4">
                                     <li>Dapat menu vip</li>
                                     <li>Tarik Uang</li>
@@ -219,12 +219,12 @@
                     <div class="col">
                         <div class="card rounded-3 mb-4 shadow-sm">
                             <div class="card-header py-3">
-                                <h4 class="my-0 fw-normal warnasalmon">PREMIUM VIP</h4>
+                                <h4 class="my-0 fw-normal warnasalmon">EXTRA VIP</h4>
                             </div>
                             <div class="card-body">
-                                <h1 class="card-title pricing-card-title">Rp,50.000<small class="text-muted fw-light">/Permanent</small></h1>
+                                <h1 class="card-title pricing-card-title">Rp,75.000<small class="text-muted fw-light">/Permanent</small></h1>
                                 <ul class="list-unstyled mt-3 mb-4">
-                                    <li>Dapat fitur PREMIUM VIP</li>
+                                    <li>Dapat fitur EXTRA VIP</li>
                                     <li>Akses Fitur Tarik Uang</li>
                                     <li>Akses Fitur Ban&Kick/Vanish</li>
                                     <li>Fitur Santet</li>
