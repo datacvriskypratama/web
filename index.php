@@ -61,6 +61,7 @@
         hr {
             color: black;
             width: 100%;
+            border: 3px;
         }
     </style>
 
@@ -182,33 +183,33 @@
             <div class="warnabackend text-center">
                 <h2 class="text-center">SUPPORT</h2>
                 <hr>
-                <div class="row text-center">
-                    <div class="col-lg-5">
+                <div class="row">
+                    <div class="col-lg-4 text-center">
                         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/server-logo-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/server-logo-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/minecraft_logo_icon_168974-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/minecraft_logo_icon_168974-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/github_PNG39-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/github_PNG39-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/discord-mascot-removebg-preview.png" class="d-block w-100">
+                                    <img src="img/discord-mascot-removebg-preview.png" class="d-block w-100" width="250px">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -241,6 +242,7 @@
         <div class="container">
             <div class="container" style="background-color:springgreen;border-radius:15px;">
                 <h2 class="text-center">RANK GAME</h2>
+                <hr>
                 ​​<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
                     <div class="col">
                         <div class="card rounded-3 mb-4 shadow-sm">
