@@ -179,51 +179,53 @@
         <!--End Jumbotron-->
 
         <!--PATNER-->
-        <div class="container">
-            <div class="warnabackend text-center">
-                <h2 class="text-center">SUPPORT</h2>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-4 text-center">
-                        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img src="img/server-logo-removebg-preview.png" class="d-block w-100" width="250px">
+        <center>
+            <div class="container">
+                <div class="warnabackend text-center">
+                    <h2 class="text-center">SUPPORT</h2>
+                    <hr>
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="img/server-logo-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/minecraft_logo_icon_168974-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/github_PNG39-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/discord-mascot-removebg-preview.png" class="d-block w-100" width="250px">
+                                    </div>
                                 </div>
-                                <div class="carousel-item">
-                                    <img src="img/minecraft_logo_icon_168974-removebg-preview.png" class="d-block w-100" width="250px">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" class="d-block w-100" width="250px">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/png-clipart-javascript-computer-programming-scripting-language-web-browser-java-ee-connector-architecture-text-logo-removebg-preview.png" class="d-block w-100" width="250px">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/58480873cef1014c0b5e48ea-removebg-preview.png" class="d-block w-100" width="250px">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/Fotolia_128673803_Subscription_Monthly_M-removebg-preview.png" class="d-block w-100" width="250px">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/github_PNG39-removebg-preview.png" class="d-block w-100" width="250px">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="img/discord-mascot-removebg-preview.png" class="d-block w-100" width="250px">
-                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
                             </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
                         </div>
                     </div>
-                </div>
-                <!--
+        </center>
+        <!--
                 <img src="img/server-logo-removebg-preview.png" alt="server" width="100">
                 <img src="img/minecraft_logo_icon_168974-removebg-preview.png" alt="minecraft" width="100">
                 <img src="img/a27d14a27b5ef7d35c241d5cc9c1deb4-removebg-preview.png" alt="htmleditor" width="100">
@@ -233,7 +235,7 @@
                 <img src="img/github_PNG39-removebg-preview.png" alt="githubdatahost" width="100">
                 <img src="img/discord-mascot-removebg-preview.png" alt="ondiscord" width="100">
                 -->
-            </div>
+        </div>
         </div>
         <br>
         <!--END PATNER-->
