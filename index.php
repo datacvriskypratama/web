@@ -14,7 +14,7 @@
     <!--Font-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Jomhuria&family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Jomhuria&family=Poppins:wght@300&display=swap" rel="stylesheet">
     <!--End Font-->
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
@@ -25,6 +25,7 @@
         * {
             padding: 0px;
             margin: 0px;
+            font-family: 'Comfortaa', cursive;
             font-family: 'Jomhuria', cursive;
             font-family: 'Poppins', sans-serif;
         }
