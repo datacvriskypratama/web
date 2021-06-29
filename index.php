@@ -57,6 +57,11 @@
         .sabol {
             width: 93px;
         }
+
+        hr {
+            color: black;
+            width: 100%;
+        }
     </style>
 
     <body style="background-color:salmon;">
@@ -176,8 +181,9 @@
         <div class="container">
             <div class="warnabackend text-center">
                 <h2 class="text-center">SUPPORT</h2>
-                <div class="row">
-                    <div class="col-lg-6">
+                <hr>
+                <div class="row text-center">
+                    <div class="col-lg-5">
                         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
