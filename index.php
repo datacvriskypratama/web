@@ -25,9 +25,9 @@
         * {
             padding: 0px;
             margin: 0px;
-            font-family: 'Comfortaa', cursive;
-            font-family: 'Jomhuria', cursive;
-            font-family: 'Poppins', sans-serif;
+            font-family: 'Arial', cursive;
+            font-family: 'Arial', cursive;
+            font-family: 'Arial', sans-serif;
         }
 
         .warnabiru {
@@ -90,7 +90,7 @@
                                 <a class="nav-link" href="https://www.facebook.com/profile.php?id=100068514830286"><b>FACEBOOK</b></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" aria-current="page" href="https://ebf53f599cfa.ngrok.io"><b>LOGIN</b></a>
+                                <a class="nav-link" aria-current="page" href="https://b200bd03b337.ngrok.io"><b>LOGIN</b></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"></a>
