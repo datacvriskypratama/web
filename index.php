@@ -240,7 +240,7 @@
                                 <h4 class="my-0 fw-normal warnagold">GOLD VIP</h4>
                             </div>
                             <div class="card-body">
-                                <h1 class="card-title pricing-card-title">Rp,100.000<small class="text-muted fw-light">/Permanent</small></h1>
+                                <h1 class="card-title pricing-card-title">Rp,95.000<small class="text-muted fw-light">/Permanent</small></h1>
                                 <ul class="list-unstyled mt-3 mb-4">
                                     <li>Dapat fitur GOLD VIP</li>
                                     <li>Akses Fitur Tarik Uang</li>
