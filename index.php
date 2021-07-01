@@ -263,6 +263,7 @@
                 <h2 class="text-center">©COPYRIGHT BY KOTAK CRAFT 2021 & 2022 💕</h2>
             </footer>
         </div>
+        <br>
         <!--End Footer-->
         <!-- Optional JavaScript; choose one of the two! -->
 
