@@ -67,6 +67,7 @@
     </style>
 
     <body style="background-color:salmon;">
+        <br>
         <!--navbar-->
         <section class="navbar-shadow container">
             <nav class="navbar navbar-expand-lg navbar-light" style="background-color:chartreuse;border-radius:15px;">
